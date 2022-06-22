@@ -1,0 +1,15 @@
+C:\Users\Resad\source\repos\BackReading\BackReading\bin\Debug\net6.0\BackReading.exe
+C:\Users\Resad\source\repos\BackReading\BackReading\bin\Debug\net6.0\BackReading.deps.json
+C:\Users\Resad\source\repos\BackReading\BackReading\bin\Debug\net6.0\BackReading.runtimeconfig.json
+C:\Users\Resad\source\repos\BackReading\BackReading\bin\Debug\net6.0\BackReading.dll
+C:\Users\Resad\source\repos\BackReading\BackReading\bin\Debug\net6.0\BackReading.pdb
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.AssemblyInfo.cs
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.dll
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\refint\BackReading.dll
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.pdb
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\BackReading.genruntimeconfig.cache
+C:\Users\Resad\source\repos\BackReading\BackReading\obj\Debug\net6.0\ref\BackReading.dll
